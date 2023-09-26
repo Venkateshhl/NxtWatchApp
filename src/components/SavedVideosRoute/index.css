@@ -1,0 +1,16 @@
+@media (max-width: 766px) {
+  .react-player {
+    width: 100% !important;
+    height: 60vh !important;
+    padding: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .react-player {
+    width: 100% !important;
+    height: 55vh;
+    padding: 30px;
+    padding-bottom: 12px;
+  }
+}
